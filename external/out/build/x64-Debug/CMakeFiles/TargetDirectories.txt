@@ -1,0 +1,10 @@
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/glad-3.3/CMakeFiles/glad.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/glad-3.3/CMakeFiles/edit_cache.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/glad-3.3/CMakeFiles/rebuild_cache.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/glfw-3.1.2/CMakeFiles/edit_cache.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/glfw-3.1.2/CMakeFiles/rebuild_cache.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/glfw-3.1.2/src/CMakeFiles/glfw.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/glfw-3.1.2/src/CMakeFiles/edit_cache.dir
+C:/Users/avamc/source/repos/CSU44052-computer-graphics/external/out/build/x64-Debug/glfw-3.1.2/src/CMakeFiles/rebuild_cache.dir
